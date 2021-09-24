@@ -8,7 +8,8 @@ class MainTest {
 
     @Test
     void main() {
-        String args[] = {};
+        String args[] = {"3", "2", "5", "1"};
         Main.main(args);
+        
     }
 }
